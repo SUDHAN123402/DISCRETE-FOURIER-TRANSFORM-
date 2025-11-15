@@ -78,6 +78,7 @@ title('Inverse FFT OF X(K)');
 # OUTPUT: 
 
 <img width="937" height="709" alt="image" src="https://github.com/user-attachments/assets/6fdc5cc5-55f5-48c9-bc83-ff27daada118" />
+
 <img width="953" height="712" alt="image" src="https://github.com/user-attachments/assets/42908e68-c583-4ea2-8e15-efdb8aa68df4" />
 
 
